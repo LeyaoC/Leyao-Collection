@@ -1,0 +1,6 @@
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,Travel photo 1,image/jpeg,squirrel.jpeg,2021,squirrel; cute,St. Catharines,43.18615,-79.2403,Squirrel in the back garden
+item2,Travel photo 2,image/jpeg,view.jpeg,2021,fall; sunrise,St. Catharines,43.1525,-79.23373,Sunrise at Niagara Falls
+item3,Travel photo 3,image/jpeg,view1.jpeg,2021,goose; peace,St. Catharines,,,Geese and birds on the shore
+item4,Travel photo 4,image/jpeg,view2.jpeg,2021,lighthouse; blue sky,St. Catharines,,,Geese under the lighthouse
+item5,Travel photo 5,image/jpeg,view3.jpeg,2021,birds; relationship,St. Catharines,,,A pair of intimate birds
