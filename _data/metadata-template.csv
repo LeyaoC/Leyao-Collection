@@ -1,2 +1,6 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,Text Item 1,image/jpeg,squirrel.jpeg,2021,squirrel; cute,St. Catharines,43.18615,-79.2403,Squirrel in the back garden
+item2,Text Item 2,image/jpeg,view.jpeg,2021,fall; sunrise,St. Catharines,43.1525,-79.23373,Sunrise at Niagara Falls
+item3,Text ltem 3,image/jpeg,view1.jpeg,2021,goose; peace,St. Catharines,,,Geese and birds on the shore
+item4,Text Item 4,image/jpeg,view2.jpeg,2021,lighthouse; blue sky,St. Catharines,,,Geese under the lighthouse
+item5,Text Item 5,image/jpeg,view3.jpeg,2021,birds; relationship,St. Catharines,,,A pair of intimate birds
